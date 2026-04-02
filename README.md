@@ -1,16 +1,29 @@
 ## Hi there 👋
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/57906c7f-ea6d-4f26-b96f-311cfd6471d6" />
 
-<!--
-**GianSSource/GianSSource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skylls 
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql)](https://skillicons.dev)
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Gian '
+	current_edu = "St. Mary's Group of Institutions"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Pisco,Peru()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
