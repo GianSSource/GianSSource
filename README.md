@@ -4,12 +4,12 @@
 
 
 ## My Skylls 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,vscode,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,vscode,java&perline=4)](https://skillicons.dev)
  ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Gian '
-	current_edu = "St. Mary's Group of Institutions"
+	current_edu = "Senati CFP Pisco"
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
