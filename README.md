@@ -4,7 +4,7 @@
 
 
 ## My Skylls 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,vscode,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,vscode,)](https://skillicons.dev)
  ## Who am I?
  ```python
  class WhoAmI:
