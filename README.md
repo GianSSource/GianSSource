@@ -29,7 +29,6 @@
 	def Ambitions():
 		LearnJapanese()
 		CreateSkyNet()
-		
-		# Assume 10 more awesome ambitions here  ;)
+		 
 	
  ```
