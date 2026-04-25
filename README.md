@@ -29,6 +29,6 @@
 	def Ambitions():
 		LearnJapanese()
 		CreateSkyNet()
-		 
+	 	Learn Chinese()
 	
  ```
