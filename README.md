@@ -7,7 +7,7 @@
 ## My Skylls 
 <p align="center" border-radius= 5px>
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,mysql,html,css,javascript,python" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,html,css,javascript,python,php,java" />
   </a>
 </p>
 
